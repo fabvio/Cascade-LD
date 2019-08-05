@@ -8,4 +8,15 @@ You can find the dataset [here](https://github.com/TuSimple/tusimple-benchmark/i
 
 ## Citation
 
-Coming soon.
+If the code, the pretrained model or the idea is useful for you, we would appreciate a citation to our paper:
+
+```
+@misc{pizzati2019lane,
+    title={Lane Detection and Classification using Cascaded CNNs},
+    author={Fabio Pizzati and Marco Allodi and Alejandro Barrera and Fernando García},
+    year={2019},
+    eprint={1907.01294},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
